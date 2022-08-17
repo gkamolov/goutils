@@ -1,3 +1,3 @@
-# goutils
+# github.com/gkamolov/goutils
 
 Golang тилини ўрганиш учун тест функциялар...
